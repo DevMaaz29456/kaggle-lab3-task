@@ -4,8 +4,8 @@
 This repository contains my work for **Kaggle Lab 3**, where I performed basic programming tasks on Kaggle and Overleaf.  
 
 ## 📝 Personal Details  
-- **Name:** Muhammad Maaz  
-- **Registration Number:** 21MDBCS151  
+- **Name:** Ismail azam  
+- **Registration Number:** 21MDBCS128 
 
 ## 🔗 Task Links  
 - **Kaggle Lab Task:** [View Notebook](https://www.kaggle.com/code/devmaaz/notebook13f07e466f?scriptVersionId=221933554)  
